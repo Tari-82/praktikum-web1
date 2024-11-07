@@ -1,0 +1,15 @@
+.container div {
+    background: plum;
+    border: 5px solid lavender;
+    height: 100px;
+}
+
+.container {
+    display: flex;
+}
+.container div {
+    background: plum;
+    border: 5px solid lightblue;
+    height: 100px;
+    flex: 1;
+}
